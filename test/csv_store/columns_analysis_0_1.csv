@@ -1,0 +1,106 @@
+	temp_sector	company_name	ml	machine	learning	data	science	big	analysis	analytics	artificial	intelligent	face	recognition	video	computer	vision	optical	biometric	biometrics	iot	blockchain	warehouse	cloud	hosting	security	attendance	cctv	ip	camera	retail	chat	rmg	fmcg	commerce	e-commerce	storage	vat	isp	training	networking	infrastructure	bank	erp	pos	startups	ekyc	government	govt	artificial_intelligent	face_recognition	video_analytics
+0	Artifical Intelligence, ML solutions	ALTECH	0	1	1	1	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	0	0	0	0	4	2	1
+1	Artifical Intelligence, ML solutions	AtomAP	0	0	0	1	0	1	1	0	1	0	1	1	0	1	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	4	2	2
+2	Artifical Intelligence, ML solutions	BJIT	1	1	1	1	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	5	2	0
+3	Artifical Intelligence, ML solutions	Banking and Finance_mononai	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	2	0
+4	Artifical Intelligence, ML solutions	NReach	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1
+5	Artifical Intelligence, ML solutions	NTrack	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+6	Artifical Intelligence, ML solutions	NYBSYS-NYBFACE	0	0	0	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	2	2
+7	Artifical Intelligence, ML solutions	Spectrum	0	1	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	1	1	1	1	0	0	1	0	6	0	2
+8	Artifical Intelligence, ML solutions	TipSHOI Smart Attendance	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+9	Artifical Intelligence, ML solutions	cWork microjob limited	0	0	0	1	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	3	1	1
+10	Artifical Intelligence, ML solutions	ibot_ssl wireless	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11	ERP, VAT, Accounts Management System	ASIT	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	2	1	1
+12	ERP, VAT, Accounts Management System	Akij Online Ltd	0	0	0	1	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	1	1	0	1	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	1	0	0	0	1	1	2	1	2
+13	ERP, VAT, Accounts Management System	AlliedITBD	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	2	0	0
+14	ERP, VAT, Accounts Management System	BikriBatta	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	3	0	1
+15	ERP, VAT, Accounts Management System	CSL Software Resources Ltd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+16	ERP, VAT, Accounts Management System	DTCL	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	0	0	3	0	1
+17	ERP, VAT, Accounts Management System	DataSoft	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1
+18	ERP, VAT, Accounts Management System	Digital Intelligence System Ltd	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	0	2	0	1
+19	ERP, VAT, Accounts Management System	Dining Plus_South Tech Group	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+20	ERP, VAT, Accounts Management System	Divine IT Ltd	1	1	0	1	0	0	1	1	0	1	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	1	0	1	0	0	0	1	1	0	1	0	1	0	0	1	1	0	0	0	1	0	6	1	3
+21	ERP, VAT, Accounts Management System	Flora Bank	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	0	0	0	0	0	0	1	1	1	0	1	0	0	1	0	4
+22	ERP, VAT, Accounts Management System	GD Assist	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+23	ERP, VAT, Accounts Management System	Genex	0	0	0	1	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	1	0	1	1	0	0	0	0	0	1	0	1	0	1	0	1	1	0	0	0	0	3	0	2
+24	ERP, VAT, Accounts Management System	Grameen Communications	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+25	ERP, VAT, Accounts Management System	Jagori technologies	1	1	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	1	0	0	0	1	1	1	0	0	0	0	4	1	1
+26	ERP, VAT, Accounts Management System	KoriyalPlus	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	2	1	1
+27	ERP, VAT, Accounts Management System	Kormee	1	0	0	1	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	3	1	1
+28	ERP, VAT, Accounts Management System	Logic Software Ltd	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+29	ERP, VAT, Accounts Management System	MediaSoft_VatPro	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	2	1	0
+30	ERP, VAT, Accounts Management System	NABA ERP_ AMBALA	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	2	0	2
+31	ERP, VAT, Accounts Management System	Recon	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+32	ERP, VAT, Accounts Management System	SManager	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+33	ERP, VAT, Accounts Management System	Samadhan Solutions	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+34	ERP, VAT, Accounts Management System	Simec System Ltd	1	0	0	1	0	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	1	1	1	1	0	1	0	1	1	1	1	0	0	1	0	5	0	3
+35	ERP, VAT, Accounts Management System	Southtech	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	1	0
+36	ERP, VAT, Accounts Management System	Subra Systems	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+37	ERP, VAT, Accounts Management System	Symphony Softtech Ltd	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	2	0	0
+38	ERP, VAT, Accounts Management System	TMSS ICT LTD	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+39	ERP, VAT, Accounts Management System	Tally Solutions	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	3	0	1
+40	ERP, VAT, Accounts Management System	Troyee	0	1	1	1	0	0	1	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	1	0	0	0	0	4	1	3
+41	ERP, VAT, Accounts Management System	UY Systems	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+42	ERP, VAT, Accounts Management System	UniVat	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	1	0	0	0	0	0	0	1	1	0	0	0	1	1	1	0	0	0	0	3	0	0
+43	ERP, VAT, Accounts Management System	VATMAN BD	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	1	0	0	0	0	1	0	1
+44	ERP, VAT, Accounts Management System	VatPromt_Technohaven	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+45	ERP, VAT, Accounts Management System	WebLink	1	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	1	1	0	1	0	0	1	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0	0	3	1	0
+46	ERP, VAT, Accounts Management System	e-Hajira, Copotronic, Shikkhangon	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	1	1	2	1	0
+47	ERP, VAT, Accounts Management System	nextIT	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	1	0	0	0	0	3	0	0
+48	Networking, Infrastructure, ISP, Training	A & A Consulting	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	1	1	1	0	0	0	1	0	3	0	1
+49	Networking, Infrastructure, ISP, Training	ADN Digital	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	1	1	0	0	0	0	1	0	2
+50	Networking, Infrastructure, ISP, Training	ADN Telecom	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1
+51	Networking, Infrastructure, ISP, Training	Ananda Multimedia	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+52	Networking, Infrastructure, ISP, Training	Arena Excellence	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+53	Networking, Infrastructure, ISP, Training	Automation Services Ltd - Agent Management System	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0
+54	Networking, Infrastructure, ISP, Training	BITM	0	1	1	1	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	4	1	1
+55	Networking, Infrastructure, ISP, Training	Bangladesh IT Institute	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1
+56	Networking, Infrastructure, ISP, Training	Colocity	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0
+57	Networking, Infrastructure, ISP, Training	DHAKACOLO	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+58	Networking, Infrastructure, ISP, Training	Datapark	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	1	0	1	1	0	0	1	0	2	0	1
+59	Networking, Infrastructure, ISP, Training	Elegant IT Ltd	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	2
+60	Networking, Infrastructure, ISP, Training	Grand Stream Bangladesh	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1
+61	Networking, Infrastructure, ISP, Training	Hawar IT	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+62	Networking, Infrastructure, ISP, Training	InfoLink	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+63	Networking, Infrastructure, ISP, Training	KYOCERA Document Solution	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	1	0
+64	Networking, Infrastructure, ISP, Training	NRB Jobs	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	1	0	1	0	0
+65	Networking, Infrastructure, ISP, Training	NerdDevs	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+66	Networking, Infrastructure, ISP, Training	Octopi technology	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+67	Networking, Infrastructure, ISP, Training	PC Links	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+68	Networking, Infrastructure, ISP, Training	PacENET_Royal green ltd	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+69	Networking, Infrastructure, ISP, Training	People n Tech	1	0	0	1	0	1	1	1	0	0	0	0	1	1	1	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1	1	1	1	1	0	0	0	0	5	0	5
+70	Networking, Infrastructure, ISP, Training	RACE Online Limited	1	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	2	0	2
+71	Networking, Infrastructure, ISP, Training	TOS	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	2
+72	Networking, Infrastructure, ISP, Training	Trizok Private Cloud	0	1	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	3	0	1
+73	Networking, Infrastructure, ISP, Training	Trizok Pvt Ltm - Managed Services	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	1	0	0	0	0	3	0	2
+74	Networking, Infrastructure, ISP, Training	Trizok VPS	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	2	0	0
+75	Networking, Infrastructure, ISP, Training	UY Lab	1	0	0	1	0	1	1	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	1	1	0	0	0	0	1	1	0	0	0	0	1	0	0	1	0	0	0	0	0	5	1	4
+76	Networking, Infrastructure, ISP, Training	Zimbra	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+77	Startups	Arena	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+78	Startups	Beetles_supply chain attack	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	1	1	0
+79	Startups	Bongo	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+80	Startups	CodeSmith Tech	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	1	1	0	0	0	1	0	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	0	0	0	0	0	0	3
+81	Startups	Eduman	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+82	Startups	EmpressHR	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	1	0
+83	Startups	Finder Tracking Service	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+84	Startups	Fosholi	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	1	0	0	1	0	1	0	0	0	0	2	1	0
+85	Startups	HajiaPlus	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	1	0	0
+86	Startups	KarmeePlus_AmbalaIT	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	0	0	0	1	1	0
+87	Startups	Khamari	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+88	Startups	MediaSoft	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	1	0
+89	Startups	MistriMama	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+90	Startups	Netcourier_Metafour	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+91	Startups	Nexdecade	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+92	Startups	Rupali	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+93	Startups	SDL Pharma	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+94	Startups	SSL Commerz	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+95	Startups	Sheba.xyz	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1
+96	Startups	Shomadhan.com	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	1	0	0
+97	Startups	Technohaven	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	1	1	1	1	0	0	1	0	1	0	0	0	0	2	0	2
+98	Startups	Witty	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	2	0	0
+99	Startups	eMedicine24	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+100	Startups	nrb telecom	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	2	1	0
+101	animation and vision	AD65	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	1
+102	animation and vision	Elegant IT limited	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+103	animation and vision	Link Vision Animation	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+104	animation and vision	Techno magic_ AR 3D	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
