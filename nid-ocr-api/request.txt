@@ -1,4 +1,39 @@
 {
+    "data": {
+        "ben": [
+            "প্ছি। গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+            "ত্য Government of the People's Republic of Bangladesh",
+            "NATIONAL ID CARD / জাতীয় পরিচয় পত্র",
+            "নাম: মোঃ সাজ্জাদুল হক",
+            "Name: Md. Sazzadul Haque",
+            "পিতা: মোঃ তোজাম্মল হক",
+            "মাতা: মোছাঃ শামীমা আক্তার",
+            "Date of Birth: 31 Dec 1991",
+            "ID NO: 19911022020000306",
+            "oe"
+        ],
+        "bengali": [
+            "2 গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+            "bh Government of the People's Republic of Bangladesh",
+            "NATIONAL ID CARD / জাতীয্্‌ন পরিচয় পত্র",
+            "নাম: মোঃ সাজ্জাদুল হক",
+            "Name: Md. Sazzadul Haque",
+            "পিতা: মোঃ তোজাম্মল হক",
+            "মাতা: মোছাঃ শামীমা আক্তার",
+            "Date of Birth: 31 Dec 1991",
+            "ID NO: 19911022020000306",
+            "oe"
+        ]
+    },
+    "result": "Success"
+}
+
+
+
+
+
+
+{
 	"threshold": 1,
 	"medianBlur": 1,
 	"blurRatio": 1,
