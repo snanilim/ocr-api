@@ -5,9 +5,9 @@ from csv import DictWriter
 
 keywords = ["temp_sector", "company_name", "ml", "machine", "learning", "data", "science", "big", "analysis", "analytics",
 "artificial", "intelligent", "face", "recognition", "video", "computer", "vision", "optical", "biometric", "biometrics", 
-"iot", "blockchain", "warehouse", "cloud", "hosting", "security", "attendance", "cctv", "ip", "camera", "retail",
+"iot", "blockchain", "warehouse", "cloud", "hosting", "security", "smart", "attendance", "cctv", "ip", "camera", "retail",
 "chat", "rmg", "fmcg", "commerce", "e-commerce", "storage", "vat", "isp", "training","networking", "infrastructure",
-"bank", "erp", "pos", "startups", "ekyc", "government", "govt"]
+"bank", "erp", "pos", "startups", "ekyc", "e-kyc", "government", "govt", "visitor", "tracker", "management"]
 
 
 path = '/home/nilim/Documents/SoftExpo2020Text'
