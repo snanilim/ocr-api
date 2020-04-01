@@ -1,7 +1,7 @@
 import os
 from flask import Flask, request, jsonify
 from datetime import datetime
-from process import imageToOcr
+from process import imageToOcr, preImgToOcr
 from PIL import Image
 from io import BytesIO
 import re, time, base64
@@ -55,5 +55,27 @@ def uploadNid():
         
 
 
+@app.route('/img-to-ocr', methods=['GET', 'POST'])
+def imgToOcr():
+    if request.method == 'GET':
+        return jsonify({"result": "Its A post request Please use a 'POST' method"})
+
+    if request.method == 'POST':
+        print('body', type(request.data))
+        # print('body', request.get_json()['nid_number'])
+        threshold = request.get_json()['threshold']
+        medianBlur = request.get_json()['medianBlur']
+        blurRatio = request.get_json()['blurRatio']
+        ocr_model = request.get_json()['ocr_model']
+        base64_image = request.get_json()['img_path']
+        img_path = "raw_image/raw_image.jpg"
+
+        image = data_uri_to_cv2_img(base64_image)
+        cv2.imwrite(img_path, image)
+
+
+        result = preImgToOcr(img_path, threshold, medianBlur, blurRatio, ocr_model)
+        return jsonify({ "result": "Success", "data": result})
+
 if __name__ == "__main__":
-    app.run(host= 'localhost', port=3000)
+    app.run(host= '0.0.0.0', port=3000)
