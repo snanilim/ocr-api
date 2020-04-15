@@ -2,6 +2,7 @@ import os
 from flask import Flask, request, jsonify
 from datetime import datetime
 from process import imageToOcr, processImgToOcr, base64_to_image
+from webScrap import scrapNidSite
 from PIL import Image
 from io import BytesIO
 import re, time, base64
@@ -41,6 +42,29 @@ def imgToOcr():
         except Exception as error:
             print('imgToOcr', error)
             return jsonify({"is_success": False, "message": "Failed to convert image to ocr. please try again"})
+
+
+
+@app.route('/web-scrap', methods=['GET', 'POST'])
+def webToScrap():
+    if request.method == 'GET':
+        return jsonify({"result": "Its A post request Please use a 'POST' method"})
+
+    if request.method == 'POST':
+        try:
+            print('body', type(request.data))
+            # print('body', request.get_json()['nid_number'])
+            url = request.get_json()['url']
+            nid = request.get_json()['nid']
+            dob = request.get_json()['dob']
+
+            print(url, nid, dob)
+
+            result = scrapNidSite(url, nid, dob)
+            return jsonify({ "result": "Success", "data": result})
+        except Exception as error:
+            print('imgToOcr', error)
+            return jsonify({"is_success": False, "message": "Failed to web scraping. please try again"})
 
 
 @app.route('/test-img-to-ocr', methods=['GET', 'POST'])
